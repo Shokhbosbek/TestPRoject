@@ -1,0 +1,9 @@
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.exe.config
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.exe
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\bin\Debug\WinFormsTest.pdb
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.AssemblyReference.cache
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.Properties.Resources.resources
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.GenerateResource.cache
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.CoreCompileInputs.cache
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.exe
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.pdb
