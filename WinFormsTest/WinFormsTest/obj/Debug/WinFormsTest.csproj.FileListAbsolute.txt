@@ -7,3 +7,4 @@ C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.Genera
 C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.csproj.CoreCompileInputs.cache
 C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.exe
 C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.pdb
+C:\C#\TestPRoject\WinFormsTest\WinFormsTest\obj\Debug\WinFormsTest.Form1.resources
